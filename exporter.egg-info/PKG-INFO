@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: exporter
+Version: 0.1.0
+Summary: Una libreria para exportar archivos a formato PDF.
+Home-page: https://github.com/tu_usuario/export_to_pd
+Author: Elabsurdo984
+Author-email: matiassfernandez00@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: reportlab
+Requires-Dist: Pillow
+Requires-Dist: pandas
+
+# Export to PDF
+
+Esta librerÃ­a permite exportar diversos archivos (texto, imÃ¡genes, CSV) a formato PDF.
+
+## InstalaciÃ³n
+
+Para instalar la librerÃ­a, puedes usar pip:
+
+```bash
+pip install exporter
